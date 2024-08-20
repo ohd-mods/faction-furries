@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "1.0",
+	"FriendlyName": "Furries",
+	"Description": "Furries Faction",
+	"Category": "Other",
+	"CreatedBy": "Bluscream",
+	"CreatedByURL": "https://discord.com/users/467777925790564352",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
